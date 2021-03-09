@@ -13,26 +13,33 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+
+theme: just-the-docs
+url: 'https://localhost:4000' # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: '/' # the subpath of your site, e.g. /blog
+
+# everything beyond this point is common across all configs
+
 title: CS/ECE 434
 tagline: Mobile Computing Algorithms and Applications
-description: A modern, highly customizable, responsive Jekyll template for course websites
+description: ''
 author: Romit Roy Choudhury
-baseurl: '/' # the subpath of your site, e.g. /blog
-url: 'https://localhost:4000' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
 # Theme settings
-theme: just-the-docs
 color_scheme: light
 search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
-  Kevin Lin:
-    - 'https://kevinl.info'
-  Just the Class on GitHub:
-    - 'https://github.com/kevinlin1/just-the-class'
-footer_content:
+  Piazza:
+    - 'http://piazza.com/illinois/spring2021/csece434'
+  Gradescope:
+    - 'https://www.gradescope.com/courses/223105'
+  Lectures (Zoom):
+    - 'https://illinois.zoom.us/j/84040260100?pwd=RjVoSjZabnNaNXh5SlZoWUtVRnlOUT09'
+footer_content: 
+  'CS/ECE 434 Website for Spring 2021 | Based on <a hred="https://github.com/kevinlin1/just-the-class">Just the Class</a> and powered by <a href="https://jekyllrb.com/">Jekyll</a> | Source code available <a href="https://github-dev.cs.illinois.edu/kishore4/ece434-website">here</a>'
 
 # Collections for website data
 collections:

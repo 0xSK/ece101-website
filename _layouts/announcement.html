@@ -1,12 +1,19 @@
 <div class="announcement">
+  {% if page.anchor %}
+  <h2 id="{{ page.anchor }}">{{ page.title }}</h2>
+  {% else %}
   <h2>{{ page.title }}</h2>
+  {% endif %}
   <span class="announcement-meta">
     {% if page.date %}
     {{ page.date | date: '%b %e' }}
-    &middot;
+      {% if page.author %}
+      &middot;
+      {% endif %}
     {% endif %}
-    {% assign minutes = content | strip_html | number_of_words | divided_by: 180.0 | round %}
-    {{ minutes }} min read
+    {% if page.author %}
+    <b>{{ page.author }}</b>
+    {% endif %}
   </span>
   <div>
     {{ content }}

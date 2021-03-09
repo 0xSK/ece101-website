@@ -2,7 +2,7 @@
 name: Liz Li
 role: Teaching Assistant
 email: ziyueli3@illinois.edu
-photo: kevin.jpg
+photo: liz.jpg
 ---
 
 Office Hours: Mondays 3-4pm on Zoom

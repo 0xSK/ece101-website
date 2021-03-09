@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Course Staff
-description: ECE 434 course staff members
+description: CS/ECE 434 course staff members
 ---
 
 # Course Staff
