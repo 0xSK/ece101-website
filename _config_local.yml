@@ -17,12 +17,12 @@ title: CS/ECE 434
 tagline: Mobile Computing Algorithms and Applications
 description: A modern, highly customizable, responsive Jekyll template for course websites
 author: Romit Roy Choudhury
-baseurl: '/kishore4/ece434-website' # the subpath of your site, e.g. /blog
-url: 'https://pages.github-dev.cs.illinois.edu' # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: '/' # the subpath of your site, e.g. /blog
+url: 'https://localhost:4000' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
 # Theme settings
-remote_theme: pmarsceill/just-the-docs@v0.3.3
+theme: just-the-docs
 color_scheme: light
 search_enabled: true
 heading_anchors: true
