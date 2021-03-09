@@ -38,7 +38,7 @@ aux_links:
   Lectures (Zoom):
     - 'https://illinois.zoom.us/j/84040260100?pwd=RjVoSjZabnNaNXh5SlZoWUtVRnlOUT09'
 footer_content: 
-  'CS/ECE 434 Website for Spring 2021 | Based on <a hred="https://github.com/kevinlin1/just-the-class">Just the Class</a> and powered by <a href="https://jekyllrb.com/">Jekyll</a> | Source code available <a href="https://github-dev.cs.illinois.edu/kishore4/ece434-website">here</a>'
+  'CS/ECE 434 Website for Spring 2021 | Based on <a href="https://github.com/kevinlin1/just-the-class">Just the Class</a> and powered by <a href="https://jekyllrb.com/">Jekyll</a> | Source code available <a href="https://github-dev.cs.illinois.edu/kishore4/ece434-website">here</a>'
 
 # Collections for website data
 collections:
