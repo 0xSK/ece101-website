@@ -6,13 +6,13 @@
   {% endif %}
   <span class="announcement-meta">
     {% if page.date %}
-    {{ page.date | date: '%b %e' }}
+    <b>{{ page.date | date: '%b %e' }}</b>
       {% if page.author %}
       &middot;
       {% endif %}
     {% endif %}
     {% if page.author %}
-    <b>{{ page.author }}</b>
+    {{ page.author }}
     {% endif %}
   </span>
   <div>

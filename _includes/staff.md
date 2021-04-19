@@ -1,12 +1,4 @@
----
-layout: page
-title: Course Staff
-description: CS/ECE 434 course staff members
----
-
-# Course Staff
-
-## Instructors
+#### Instructors
 
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
 {% for staffer in instructors %}
@@ -15,8 +7,10 @@ description: CS/ECE 434 course staff members
 
 {% assign teaching_assistants = site.staffers | where: 'role', 'Teaching Assistant' %}
 {% assign num_teaching_assistants = teaching_assistants | size %}
+
 {% if num_teaching_assistants != 0 %}
-## Teaching Assistants
+
+#### Teaching Assistants
 
 {% for staffer in teaching_assistants %}
 {{ staffer }}

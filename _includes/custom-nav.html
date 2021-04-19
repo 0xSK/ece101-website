@@ -1,0 +1,9 @@
+<ul class="nav-list">
+  {% for nav_link in page.toc %}
+    <li class="nav-list-item">
+      <a href="{{ nav_link.link | absolute_url }}" class="nav-list-link">
+        {{ nav_link.name }}
+      </a>
+    </li>
+  {% endfor %}
+</ul>

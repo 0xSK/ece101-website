@@ -6,6 +6,8 @@ sort_order: 2
 Jan 27
 : **Linear Algebra** <br> Vector spaces 
   : [Video](#) / [Notes](#) / [Optional Reading List](#)
+  : Test
+  : test
 <!-- : **Optional**{: .label .label-green } [Reading list](#) -->
 
 Feb 1

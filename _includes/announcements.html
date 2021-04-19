@@ -1,0 +1,11 @@
+{% assign announcements = site.announcements | sort: "date" | reverse %}
+
+{% if limit && limit > 1 %}
+  {% for announcement in announcements limit:limit %}
+    {{ announcement }}
+  {% endfor %}
+{% else %}
+  {% for announcement in announcements %}
+    {{ announcement }}
+  {% endfor %}
+{% endif %}
