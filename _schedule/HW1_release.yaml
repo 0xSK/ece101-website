@@ -1,0 +1,10 @@
+---
+kind: homework_release
+assignment_name: HW1
+event_id: HW1_release
+date: 2021-02-01
+due_date_event_id: HW1_due
+release_notes: |
+  [hw1.pdf](http://courses.grainger.illinois.edu/cs434/sp2021/assignments/hw1.pdf) 
+optional_material: |
+---

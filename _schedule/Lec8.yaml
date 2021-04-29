@@ -1,0 +1,19 @@
+---
+kind: lecture
+date: 2021-02-17
+module: Outdoor Localization
+algorithms_techniques: GPS introduction
+topics: |
+  Trilateration, clock synchronization, pseudorange ... \
+  Auto-correlation, cross-correlation.
+lectures: |
+  [video1](https://courses.grainger.illinois.edu/cs434/sp2021/videos/8.1-lec-434.mp4)
+  [video2](https://courses.grainger.illinois.edu/cs434/sp2021/videos/8.2-lec-434.mp4)
+slides_notes: |
+  [pre-notes](https://courses.grainger.illinois.edu/cs434/sp2021/notes/L8-pre-gps.pdf)\
+  [post-notes](https://courses.grainger.illinois.edu/cs434/sp2021/notes/L8-after-gps.pdf)
+optional_material: |
+  See [GPS linearize technique video](https://youtu.be/X8uIMepR2uw?list=PLGvhNIiu1ubyEOJga50LJMzVXtbUq6CPo)
+  Read Sec. 1 & 2 of [CO-GPS paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/SenSys147-co-gps.pdf)
+  Read [Rethinking GPS](https://eng.uber.com/rethinking-gps/)
+---

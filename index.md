@@ -44,7 +44,7 @@ M/W 10-11:20am on Zoom
 
 ---
 ## Calendar
-{% include calendar.md %}
+{% include schedule.html %}
 
 ---
 

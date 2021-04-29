@@ -38,6 +38,27 @@ div.highlighter-rouge[overlay] {
   }
 }
 
+table {
+  th, td {
+    min-width: 110px !important;
+    p {
+      margin: 0;
+    }
+  }
+  .label{
+    // background-color: $white;
+    border-radius: $border-radius;
+    // bottom: $sp-2;
+    // content: attr(overlay);
+    // position: absolute;
+    // right: 0;
+    // user-select: none;
+    // a {
+      //   color: $white !important;
+      // }
+    }
+}
+    
 details {
   margin: 0 40px 1em;
 }
@@ -71,6 +92,10 @@ summary {
     white-space: normal;
   }
 
+  p {
+    max-width: 800px;
+  }
+
   dl {
     display: block;
     grid-template-columns: none;
@@ -96,6 +121,8 @@ summary {
   .katex {
     font-size: 1.1em;
   }
+
+  line-height: 1.5 !important;
 }
 
 [style*="--aspect-ratio"] > :first-child {

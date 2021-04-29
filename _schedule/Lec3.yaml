@@ -1,0 +1,15 @@
+---
+kind: lecture
+date: 2021-02-01
+module: Foundations
+algorithms_techniques: Linear Algebra (2/2)
+topics: |
+  Null spaces and orthogonal relations between Column, Row, and Null spaces ...
+lectures: |
+  [video](https://courses.grainger.illinois.edu/cs434/sp2021/videos/3-lec-434.mp4)
+slides_notes: |
+  [notes](https://courses.grainger.illinois.edu/cs434/sp2021/notes/L3-after-lin-algebra.pdf)
+optional_material: |
+  [Linear Algebra Book](https://math.mit.edu/%7Egs/linearalgebra/)
+  (by G. Strang)
+---

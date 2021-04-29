@@ -39,7 +39,11 @@ layout: table_wrappers
       </svg>
     </symbol>
   </svg>
-
+  <style>
+    @media (min-width: 50rem) { .side-bar { flex-wrap: nowrap; position: fixed; width: 248px !important; min-width: 248px !important; height: 100%; flex-direction: column; border-right: 1px solid #eeebee; align-items: flex-end; }}
+    @media (min-width: 50rem) { .main { position: relative; max-width: 100%; margin-left: 248px; } }
+    .main-content-wrap { max-width: 100%; margin: auto; }
+  </style>
   <div class="side-bar">
     <div class="site-header">
       <a href="{{ '/' | absolute_url }}" class="site-title lh-tight">{% include title.html %}</a>

@@ -1,0 +1,92 @@
+{% assign yellow = "#f7d12e" %}
+{% assign red = "#e94c4c" %}
+{% assign purple = "#5e41d0" %}
+{% assign blue = "#2869e6" %}
+{% assign green = "#009c7b" %}
+{% assign gray = "#44434d" %}
+{% assign white = "#ffffff" %}
+
+<table>
+  <colgroup>
+    <col span="1" style="width: 5%;">
+    <col span="1" style="width: 5%;">
+    <col span="1" style="width: 20%;">
+    <col span="1" style="width: 30%;">
+    <col span="1" style="width: 5%;">
+    <col span="1" style="width: 15%;">
+    <col span="1" style="width: 20%;">
+ </colgroup>
+ <tbody>
+   <tr>
+     <th>Date</th>
+     <th>Module</th>
+     <th>Algorithms & Techniques</th>
+     <th>Topics & Applications</th>
+     <th>Lectures</th>
+     <th>Slides/Notes</th>
+     <th>Optional Reading Material</th>
+    </tr>
+    {% assign sorted_schedule_rows = site.schedule | sort: "date" %}
+    {% for row in sorted_schedule_rows %}
+      {% if row.kind == 'lecture' %}
+        <tr>
+          <td>
+            {{row.date | date: "%a, %b %d" }}
+            <div class="data-parsable" style="display: none;"> {{row.date}} </div>
+          </td>
+          <td>{{row.module | markdownify }}</td>
+          <td>{{row.algorithms_techniques | markdownify }}</td>
+          <td>{{row.topics | markdownify }}</td>
+          <td>{{row.lectures | markdownify }}</td>
+          <td>{{row.slides_notes | markdownify }}</td>
+          <td>{{row.optional_material | markdownify }}</td>
+        </tr>
+      {% elsif row.kind == 'homework_release' or row.kind == 'mp_release' %}
+        {% assign due_date_id = row.due_date_event_id %}
+        {% assign due_date_element = site.schedule | where: 'event_id', due_date_id %}
+        {% assign due_date = due_date_element[0].date %}
+        {% assign due_time = due_date_element[0].time %}
+        {% capture due_date_time_string %}{{due_date}}T{{due_time}}{% endcapture %}
+        <tr>
+          <td>
+            {{row.date | date: "%a, %b %d" }}
+            <div class="data-parsable" style="display: none;"> {{row.date}} </div>
+          </td>
+          <td colspan="4">
+            {% if row.kind == 'homework_release' %}
+              <strong class="label label-blue">
+            {% elsif row.kind == 'mp_release' %}
+              <strong class="label label-purple">
+            {% endif%}
+              <b>{{row.assignment_name}} released</b> 
+              | Due on {{ due_date_time_string | date: "%a, %b %d at %I:%M %p (Central Time)" }} 
+              on <a style="color: {{white}};" href="https://www.gradescope.com/courses/223105">Gradescope</a>
+            </strong>
+          </td>
+          <td>{{row.release_notes | markdownify }}</td>
+          <td>{{row.optional_material | markdownify }}</td>
+        </tr>
+      {% elsif row.kind == 'homework_due' or row.kind == 'mp_due' %}
+        {% assign due_date = row.date %}
+        {% assign due_time = row.time %}
+        {% capture due_date_time_string %}{{due_date}}T{{due_time}}{% endcapture %}
+        {% assign due_date_id = row.event_id %}
+        {% assign release_element = site.schedule | where: 'due_date_event_id', due_date_id %}
+        {% assign assignment_name = release_element[0].assignment_name %}
+        <tr class="homework-due">
+          <td>
+            {{row.date | date: "%a, %b %d" }}
+            <div class="data-parsable" style="display: none;"> {{row.date}} </div>
+          </td>
+          <td colspan="6">
+            <strong class="label label-red">
+              <b>{{assignment_name}} due</b> 
+              on {{ due_date_time_string | date: "%a, %b %d at %I:%M %p (Central Time)" }} 
+              on <a style="color: {{white}};" href="https://www.gradescope.com/courses/223105">Gradescope</a>
+            </strong>
+          </td>
+        </tr>
+      {% endif %}
+    {% endfor %}
+  </tbody>
+</table>

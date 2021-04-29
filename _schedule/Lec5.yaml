@@ -1,0 +1,13 @@
+---
+kind: lecture
+date: 2021-02-08
+module: Foundations
+algorithms_techniques: Signal Processing (1/3)
+topics: |
+  Time and frequency basis, Fourier transform, IDFT ...
+lectures: |
+  [video](https://courses.grainger.illinois.edu/cs434/sp2021/videos/5-lec-434.mp4)
+slides_notes: |
+  [notes](https://courses.grainger.illinois.edu/cs434/sp2021/notes/L5-after-dsp.pdf)
+optional_material: |
+---

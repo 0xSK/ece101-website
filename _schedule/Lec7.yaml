@@ -1,0 +1,14 @@
+---
+kind: lecture
+date: 2021-02-15
+module: Foundations
+algorithms_techniques: Signal Processing (3/3)
+topics: |
+  Spectrogram, Properties, Nyquist sampling theorem
+lectures: |
+  [video](https://courses.grainger.illinois.edu/cs434/sp2021/videos/7-lec-434.mp4)
+slides_notes: |
+  [pre-notes](https://courses.grainger.illinois.edu/cs434/sp2021/notes/L7-pre-dsp.pdf)\
+  [post-notes](https://courses.grainger.illinois.edu/cs434/sp2021/notes/L7-after-dsp.pdf)
+optional_material: |
+---

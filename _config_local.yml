@@ -48,7 +48,7 @@ nav_sort: case_sensitive
 collections:
   staffers:
   modules:
-  schedules:
+  schedule:
   announcements:
 # Default layouts for each collection type
 defaults:
