@@ -39,12 +39,15 @@ aux_links:
     - 'https://illinois.zoom.us/j/84040260100?pwd=RjVoSjZabnNaNXh5SlZoWUtVRnlOUT09'
 footer_content: 
   'CS/ECE 434 Website for Spring 2021 | Based on <a href="https://github.com/kevinlin1/just-the-class">Just the Class</a> and powered by <a href="https://jekyllrb.com/">Jekyll</a> | Source code available <a href="https://github-dev.cs.illinois.edu/kishore4/ece434-website">here</a>'
+back_to_top: true
+back_to_top_text: "Back to top"
+nav_sort: case_sensitive 
 
 # Collections for website data
 collections:
   staffers:
   modules:
-  schedules:
+  schedule:
   announcements:
 # Default layouts for each collection type
 defaults:
