@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Home
+title: 'ECE 101 — Exploring Digital Information Technologies for Non-Engineers'
 toc:
   - name: Recent Announcements
     link: "#recent-announcements"
@@ -12,34 +12,44 @@ toc:
     link: "#syllabus"
   - name: Grading Information
     link: "#grading-information"
-  - name: Midterm Exam Information
-    link: "#midterm-exam-information"
+  # - name: Midterm Exam Information
+  #   link: "#midterm-exam-information"
   - name: All Announcements
     link: "#all-announcements"
 seo:
   type: Course
-  name: CS/ECE 434 - Mobile Computing Algorithms and Applications
+  name: 'ECE 101 — Exploring Digital Information Technologies for Non-Engineers'
 ---
 
 
 # {{ site.tagline }}
+![ECE 101 Banner](assets/images/banner.jpg)
 <!-- {: .mb-2 } {: .fs-6 .fw-300 } -->
 
-## Lectures
+## Logistics
 
-M/W 10-11:20am on Zoom
+#### Lectures
+Mondays & Wednesdays, 11:00am – 11:50am <br />
+[Join Zoom Lecture](#TODO){: .btn .btn-outline } 
+[See Lecture Schedule](#calendar){: .btn .btn-outline } 
 
-[Join Zoom Lectures](https://illinois.zoom.us/j/84040260100?pwd=RjVoSjZabnNaNXh5SlZoWUtVRnlOUT09){: .btn .btn-outline } [View Office Hours Information](staff.md){: .btn .btn-outline }
+#### Labs
+Fridays, 10:00am – 11:50am <br />
+[Join Zoom Lab](#TODO){: .btn .btn-outline } 
+
+
+#### Office Hours
+TBD
 
 ---
 
 ## Recent Announcements
-{% assign num_recent_announcements = 1 %}
+{% assign num_recent_announcements = 2 %}
 {% assign all_announcements = site.announcements | sort: "date" | reverse %}
 {% for announcement in all_announcements limit:num_recent_announcements %}
   {{ announcement }}
 {% endfor %}
-[View All Announcements](#all-announcements){: .btn .btn-outline }
+[See All Announcements](#all-announcements){: .btn .btn-outline }
 
 
 ---
@@ -60,9 +70,9 @@ M/W 10-11:20am on Zoom
 ## Grading Information
 {% include grading.md %}
 
----
+<!-- ---
 ## Midterm Exam Information
-{% include midterm.md %}
+{% include midterm.md %} -->
 
 ---
 ## All Announcements
