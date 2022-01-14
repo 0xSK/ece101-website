@@ -2,6 +2,8 @@
 layout: home
 title: 'ECE 101 — Exploring Digital Information Technologies for Non-Engineers'
 toc:
+  - name: Logistics
+    link: "#logistics"
   - name: Recent Announcements
     link: "#recent-announcements"
   - name: Calendar

@@ -31,8 +31,8 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
-  Piazza/Slack:
-    - "#TODO"
+  Slack:
+    - 'ece101workspace.slack.com'
   Grades:
     - "#TODO"
   Live Lecture (Zoom):
