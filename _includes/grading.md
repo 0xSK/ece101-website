@@ -1,4 +1,3 @@
-* Homework: 25%
-* Hands-on exercises: 25%
-* Midterm exam: 25%
-* Project: 25%
+* Midterm exams: 3 × 20%
+* Hands-on exercises / Labs: 30%
+* Participation: 10%
