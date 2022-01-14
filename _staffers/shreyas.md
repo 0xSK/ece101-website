@@ -2,7 +2,7 @@
 name: Shreyas Kishore
 role: Teaching Assistant
 email: kishore4@illinois.edu
-photo: shreyas.jpg
+photo: assets/images/shreyas.jpg
 pronouns: he/him/his
 ---
 

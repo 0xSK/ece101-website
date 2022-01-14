@@ -30,7 +30,7 @@ seo:
 
 #### Lectures
 Mondays & Wednesdays, 11:00am – 11:50am <br />
-[Join Zoom Lecture](#TODO){: .btn .btn-outline } 
+[Join Zoom Lecture](#TODO){: .btn .btn-outline } <br />
 [See Lecture Schedule](#calendar){: .btn .btn-outline } 
 
 #### Labs
