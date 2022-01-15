@@ -56,8 +56,8 @@ TBD
 
 ---
 ## Calendar
-{% include schedule.html %}
-
+<!-- {% include schedule.html %} -->
+{% include calendar.md %}
 ---
 
 ## Course Staff

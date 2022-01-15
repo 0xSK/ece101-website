@@ -47,6 +47,13 @@
       font-weight: normal;
       text-align: right;
 
+      @media (min-width: 500px) {
+        width: 150px;
+      }
+      @media (max-width: 499px) {
+        width: 100px;
+      }
+
       +dd {
         border-top: $border $border-color;
       }

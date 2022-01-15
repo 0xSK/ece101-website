@@ -33,7 +33,7 @@ heading_anchors: true
 permalink: pretty
 aux_links:
   Slack:
-    - 'ece101workspace.slack.com'
+    - 'https://ece101workspace.slack.com'
   Grades:
     - "#TODO"
   Live Lecture (Zoom):
