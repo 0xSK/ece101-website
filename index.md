@@ -12,6 +12,8 @@ toc:
     link: "#course-staff"
   - name: Syllabus
     link: "#syllabus"
+  - name: Exam Information
+    link: "#exam-information"
   - name: Grading Information
     link: "#grading-information"
   # - name: Midterm Exam Information
@@ -69,6 +71,12 @@ TBD
 {% include syllabus.md %}
 
 ---
+
+## Exam Information
+{% include exams.md %}
+
+---
+
 ## Grading Information
 {% include grading.md %}
 
