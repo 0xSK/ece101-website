@@ -16,6 +16,7 @@
 remote_theme: pmarsceill/just-the-docs@v0.3.3
 url: 'https://courses.grainger.illinois.edu' # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: '/ece101/sp2022/' # the subpath of your site, e.g. /blog
+destination: _site_uiuc/
 
 # everything beyond this point is common across all configs
 

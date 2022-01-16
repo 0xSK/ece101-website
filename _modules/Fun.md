@@ -10,3 +10,6 @@ Mon, May 2
 Wed, May 4
 : **TBA**
   : 
+
+Thu, May 5
+: **Reading Day 📚**{: .label .label-purple }

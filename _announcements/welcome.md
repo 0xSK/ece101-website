@@ -5,7 +5,7 @@ author: ECE 101 Course Staff
 anchor: welcome
 ---
 
-We are excited to start the new semester. Profs. [Roy Choudhury](#romit) and [Lumetta](#steve) put this course together in the hope of reaching out to the broader campus and helping to provide the general student body with some insight and exposure to the powerful technologies and trends that have changed and will continue to change people's lives in the coming decade. [Shreyas](#shreyas) is a senior ECE student with extensive experience on our course staff, who volunteered to join us for his passion for motivating non-engineers about STEM ideas.
+We are excited to start the new semester. Profs. [Roy Choudhury](#romit) and [Lumetta](#steve) put this course together with the hope of helping students (from all departments) understand and ponder about modern technologies that have changed and will continue to change people’s lives in the coming decade. [Shreyas](#shreyas) is a senior ECE student with extensive experience on our course staff, who volunteered to join us for his passion for motivating non-engineers about STEM ideas.
 
 As you may already know, we have made some major changes to the course content and structure, so please ignore any old descriptions that you might find online—this page and our [introductory lecture](#introduction) will tell you about the plans for this and coming semesters.
 
