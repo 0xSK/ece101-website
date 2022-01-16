@@ -4,7 +4,7 @@ sort_order: 4
 ---
 
 Mon, Apr 4
-: **???**
+: **Sense-Compute-Communicate-Actuate**
   : [Video](#) / [Slides](#)
 
 Wed, Apr 6
