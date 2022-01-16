@@ -24,7 +24,7 @@ title: ECE 101
 tagline: Exploring Digital Information Technologies for Non-Engineers
 description: ""
 author: Shreyas Kishore
-exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "readme.md", "CNAME"]
+exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "readme.md", "CNAME", "build_and_push_uiuc.sh"]
 
 # Theme settings
 color_scheme: light
