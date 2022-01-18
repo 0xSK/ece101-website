@@ -31,15 +31,26 @@ color_scheme: light
 search_enabled: true
 heading_anchors: true
 permalink: pretty
+aux_links_new_tab: true
 aux_links:
-  Slack:
-    - 'https://ece101workspace.slack.com'
-  Grades:
-    - "#TODO"
-  Live Lecture (Zoom):
-    - "#TODO"
-  Recorded Lectures:
-    - "#TODO"
+  slack:
+    title: 'Slack' 
+    link: 'https://ece101workspace.slack.com/'
+    show: true
+  canvas:
+    title: 'Grades'
+    link: 'https://canvas.illinois.edu/'
+    show: true
+  zoom_lec:
+    title: 'Live Lecture (Zoom)'
+    link: 'https://illinois.zoom.us/j/89291413832?pwd=TTlrdktPVGxFUFVWaVA3bDRjRVM4dz09'
+    show: true
+  zoom_lab:
+    link: 'https://illinois.zoom.us/j/89291413832?pwd=TTlrdktPVGxFUFVWaVA3bDRjRVM4dz09'
+  recordings:
+    title: 'Recorded Lectures'
+    link: '#calendar'
+    show: true
 footer_content: 'ECE 101 Website for Spring 2022 <br /> Based on <a href="https://github.com/kevinlin1/just-the-class">Just the Class</a> and powered by <a href="https://jekyllrb.com/">Jekyll</a> <br /> Source code available <a href="https://github.com/0xsk/ece101-website">here</a>'
 back_to_top: true
 back_to_top_text: "Back to top"

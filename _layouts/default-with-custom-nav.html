@@ -70,16 +70,18 @@ layout: table_wrappers
       {% if site.aux_links %}
         <nav aria-label="Auxiliary" class="aux-nav">
           <ul class="aux-nav-list">
-            {% for link in site.aux_links %}
+            {% for aux_link in site.aux_links %}
+            {% if aux_link.last.show %}
               <li class="aux-nav-list-item">
-                <a href="{{ link.last }}" class="site-button"
+                <a href="{{ aux_link.last.link }}" class="site-button"
                   {% if site.aux_links_new_tab %}
                   target="_blank" rel="noopener noreferrer"
                   {% endif %}
                 >
-                  {{ link.first }}
+                  {{ aux_link.last.title }}
                 </a>
               </li>
+            {% endif %}
             {% endfor %}
           </ul>
         </nav>
