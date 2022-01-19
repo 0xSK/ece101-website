@@ -47,6 +47,6 @@ Wed, Apr 27
 : **Exam 3**{: .label .label-red }
   : [Info](#exam-3) / [TBA](#TODO)
 
-Fri, Apr 22
+Fri, Apr 29
 : **No Lab**{: .label .label-green }
   : 

@@ -26,9 +26,6 @@ description: ""
 author: Shreyas Kishore
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "readme.md", "CNAME", "build_and_push_uiuc.sh"]
 
-# additional vars
-lab_zoom_link: 'https://illinois.zoom.us/j/89291413832?pwd=TTlrdktPVGxFUFVWaVA3bDRjRVM4dz09'
-
 # Theme settings
 color_scheme: light
 search_enabled: true
