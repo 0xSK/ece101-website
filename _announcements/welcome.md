@@ -1,6 +1,6 @@
 ---
-title: '<b>Welcome to the new edition of ECE 101! 🎉</b>'
-date: 2022-01-18
+title: 'Welcome to the new edition of ECE 101! 🎉'
+date: 2022-01-16
 author: ECE 101 Course Staff
 anchor: welcome
 ---
