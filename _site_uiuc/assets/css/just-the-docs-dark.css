@@ -2336,3 +2336,4 @@ iframe, summary { max-width: 100%; }
   [style*="--aspect-ratio"]::before { content: ""; display: block; padding-bottom: calc(100% / (var(--aspect-ratio))); }
   [style*="--add-height"]::before { padding-bottom: calc(100% / (var(--aspect-ratio)) + (var(--add-height))); }
   [style*="--aspect-ratio"] > :first-child { position: absolute; top: 0; left: 0; height: 100%; } }
+.date-past { background: #eef1ff; }

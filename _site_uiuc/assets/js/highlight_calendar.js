@@ -1,4 +1,4 @@
-function highlight_calendar() {
+window.addEventListener("load", () => {
   $("div.module").map((i, mod) => {
     var dl = mod.children[0];
     var date;
@@ -21,9 +21,4 @@ function highlight_calendar() {
       dl.classList.add("date-past");
     }
   });
-}
-
-window.addEventListener("load", highlight_calendar);
-
-// also run highlight_calendar() every hour
-setInterval(highlight_calendar, 3600000);
+});
