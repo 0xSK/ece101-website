@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: one-page
 title: 'ECE 101 — Exploring Digital Information Technologies for Non-Engineers'
 toc:
   - name: Logistics
@@ -63,7 +63,6 @@ TBA
 
 ---
 ## Calendar
-<!-- {% include schedule.html %} -->
 {% include calendar.md %}
 ---
 
@@ -84,10 +83,6 @@ TBA
 
 ## Grading Information
 {% include grading.md %}
-
-<!-- ---
-## Midterm Exam Information
-{% include midterm.md %} -->
 
 ---
 ## All Announcements
