@@ -35,7 +35,7 @@ aux_links_new_tab: true
 aux_links:
   slack:
     title: 'Slack' 
-    link: 'https://ece101workspace.slack.com/'
+    link: 'https://join.slack.com/t/ece101workspace/shared_invite/zt-116g8erhf-Q3zZxDL6eUDxuAe5CkP6vA'
     show: true
   canvas:
     title: 'Grades'
