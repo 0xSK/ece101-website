@@ -1,3 +1,6 @@
+let year = "2022"
+let cutoff_time = "11:50am";
+
 function highlight_calendar() {
   $("div.module").map((i, mod) => {
     var dl = mod.children[0];
@@ -8,7 +11,7 @@ function highlight_calendar() {
       if (child.tagName == "DT") {
         // update date
         date = child.textContent.trim();
-        date += " 2022 11:50am";
+        date += " " + year; + " " + cutoff_time;
         date = Date.parse(date);
       }
       if (Date.compare(Date.parse("now"), date) === 1) {
