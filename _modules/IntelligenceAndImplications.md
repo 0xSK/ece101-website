@@ -5,7 +5,7 @@ sort_order: 3
 
 Mon, Feb 21
 : **Google & Web Search**
-  : [Video](#) / [Slides](#)
+  : Video / Slides
 
 Wed, Feb 23
 : **Exam 1**{: .label .label-red }
@@ -17,27 +17,27 @@ Fri, Feb 25
 
 Mon, Feb 28
 : **Recommendation Engines**
-  : [Video](#) / [Slides](#)
+  : Video / Slides
 
 Wed, Mar 2
 : **Gaming** <br> Peer-to-peer communication, Latency
-  : [Video](#) / [Slides](#)
+  : Video / Slides
 
 Fri, Mar 4
 : **Lab 6**
-  : [Video](#) / [Notebook](#)
+  : Video / Notebook
 
 Mon, Mar 7
 : **Machine Learning**
-  : [Video](#) / [Slides](#)
+  : Video / Slides
 
 Wed, Mar 9
 : **Artificial Intelligence**
-  : [Video](#) / [Slides](#)
+  : Video / Slides
 
 Fri, Mar 11
 : **Lab 7**
-  : [Video](#) / [Notebook](#)
+  : Video / Notebook
 
 Sat, Mar 12
 : **Spring Break Begins 🥳**{: .label .label-purple }
@@ -47,19 +47,19 @@ Sun, Mar 20
 
 Mon, Mar 21
 : **Ethics & Privacy**
-  : [Video](#) / [Slides](#)
+  : Video / Slides
 
 Wed, Mar 23
 : **Security**
-  : [Video](#) / [Slides](#)
+  : Video / Slides
 
 Fri, Mar 25
 : **Lab 8**
-  : [Video](#) / [Notebook](#)
+  : Video / Notebook
 
 Mon, Mar 28
 : **Fairness**
-  : [Video](#) / [Slides](#)
+  : Video / Slides
 
 Wed, Mar 30
 : **Exam 2**{: .label .label-red }
