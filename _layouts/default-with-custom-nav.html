@@ -77,7 +77,7 @@ layout: table_wrappers
             {% if aux_link.last.show %}
               <li class="aux-nav-list-item">
                 <a href="{{ aux_link.last.link }}" class="site-button"
-                  {% if site.aux_links_new_tab %}
+                  {% if site.aux_links_new_tab and aux_link.last.same_tab != true %}
                   target="_blank" rel="noopener noreferrer"
                   {% endif %}
                 >
