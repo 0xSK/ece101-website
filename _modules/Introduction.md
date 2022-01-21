@@ -12,7 +12,7 @@ Wed, Jan 19
 
 Fri, Jan 21
 : **History, Map of Keywords**
-  : Video / [Slides](https://www.dropbox.com/s/b7volhac6j7xrga/101-002-history-keywords.pptx?dl=0)
+  : [Video](https://courses.grainger.illinois.edu/ece101/sp2022/lectures/ECE101-S22-LECTURE-02.mp4) / [Slides](https://www.dropbox.com/s/b7volhac6j7xrga/101-002-history-keywords.pptx?dl=0)
 : **Lab 1**: Introduction to Colab
   : Video / Notebook
 
