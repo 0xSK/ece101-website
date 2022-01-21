@@ -1,5 +1,6 @@
 let year = "2022"
-let cutoff_time = "11:50am";
+let cutoff_time = "11:55am";
+let time_zone = "CST";
 
 function highlight_calendar() {
   $("div.module").map((i, mod) => {
@@ -11,7 +12,7 @@ function highlight_calendar() {
       if (child.tagName == "DT") {
         // update date
         date = child.textContent.trim();
-        date += " " + year; + " " + cutoff_time;
+        date += ` ${year} ${cutoff_time} ${time_zone}`;
         date = Date.parse(date);
       }
       if (Date.compare(Date.parse("now"), date) === 1) {
