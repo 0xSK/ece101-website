@@ -12,7 +12,7 @@ Wed, Jan 26
   : Video / Slides
 
 Fri, Jan 28
-: **Lab 2**
+: **Lab 1**: Introduction to Colab
   : Video / Notebook
 
 Mon, Jan 31
@@ -24,7 +24,7 @@ Wed, Feb 2
   : Video / Slides
 
 Fri, Feb 4
-: **Lab 3**
+: **Lab 2**
   : Video / Notebook
 
 Mon, Feb 7
@@ -36,7 +36,7 @@ Wed, Feb 9
   : Video / Slides
 
 Fri, Feb 11
-: **Lab 4**
+: **Lab 3**
   : Video / Notebook
 
 Mon, Feb 14
@@ -48,5 +48,5 @@ Wed, Feb 16
   : Video / Slides
 
 Fri, Feb 18
-: **Lab 5**
+: **Lab 4**
   : Video / Notebook

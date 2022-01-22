@@ -24,7 +24,7 @@ Wed, Mar 2
   : Video / Slides
 
 Fri, Mar 4
-: **Lab 6**
+: **Lab 5**
   : Video / Notebook
 
 Mon, Mar 7
@@ -36,7 +36,7 @@ Wed, Mar 9
   : Video / Slides
 
 Fri, Mar 11
-: **Lab 7**
+: **Lab 6**
   : Video / Notebook
 
 Sat, Mar 12
@@ -54,7 +54,7 @@ Wed, Mar 23
   : Video / Slides
 
 Fri, Mar 25
-: **Lab 8**
+: **Lab 7**
   : Video / Notebook
 
 Mon, Mar 28

@@ -12,7 +12,7 @@ Wed, Apr 6
   : Video / Slides
 
 Fri, Apr 8
-: **Lab 9**
+: **Lab 8**
   : Video / Notebook
 
 Mon, Apr 11
@@ -24,7 +24,7 @@ Wed, Apr 13
   : Video / Slides
 
 Fri, Apr 15
-: **Lab 10**
+: **Lab 9**
   : Video / Notebook
 
 Mon, Apr 18
@@ -36,7 +36,7 @@ Wed, Apr 20
   : Video / Slides
 
 Fri, Apr 22
-: **Lab 11**
+: **Lab 10**
   : Video / Notebook
 
 Mon, Apr 25
