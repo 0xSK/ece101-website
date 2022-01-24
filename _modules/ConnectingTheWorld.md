@@ -5,7 +5,7 @@ sort_order: 2
 
 Mon, Jan 24
 : **Wi-Fi**
-  : Video / Slides
+  : Video / [Slides](https://www.dropbox.com/s/7k5aj9pgdtnmeqn/101-003-wifi.pdf?dl=0)
 
 Wed, Jan 26
 : **Cellular**
