@@ -5,11 +5,11 @@ sort_order: 2
 
 Mon, Jan 24
 : **Wi-Fi**
-  : [Video](https://courses.grainger.illinois.edu/ece101/sp2022/lectures/ECE101-S22-LECTURE-03.mp4) / [Slides](https://www.dropbox.com/s/7k5aj9pgdtnmeqn/101-003-wifi.pdf?dl=0)
+  : [Video](https://courses.grainger.illinois.edu/ece101/sp2022/lectures/ECE101-S22-LECTURE-03.mp4) / [Slides](https://www.dropbox.com/s/po8kicwkm14m24l/101-003-wifi.pdf?dl=0)
 
 Wed, Jan 26
 : **Cellular**
-  : Video / Slides
+  : Video / [Slides](https://www.dropbox.com/s/311102wr66lt3xx/101-004-cellular.pdf?dl=0)
 
 Fri, Jan 28
 : **Lab 1**: Introduction to Colab
