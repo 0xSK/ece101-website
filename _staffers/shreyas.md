@@ -7,4 +7,4 @@ photo: assets/images/shreyas.jpg
 pronouns: he/him/his
 ---
 
-[Office Hours: TBA](#TODO)
+Office Hours: TBA

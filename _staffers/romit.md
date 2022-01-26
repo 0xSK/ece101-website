@@ -8,4 +8,4 @@ photo: assets/images/romit.jpg
 pronouns: he/him/his
 ---
 
-[Office Hours: TBA](#TODO)
+Office Hours: TBA

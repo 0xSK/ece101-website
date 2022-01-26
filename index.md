@@ -32,23 +32,7 @@ seo:
 <!-- {: .mb-2 } {: .fs-6 .fw-300 } -->
 
 ## Logistics
-
-#### Lectures
-Mondays & Wednesdays, 11:00am – 11:50am 
-
-[Join Zoom Lecture]({{ site.aux_links.zoom_lec.link}}){: .btn .btn-outline } <br>
-Meeting ID: `892 9141 3832` Password: `269962`
-
-[See Lecture Schedule](#calendar){: .btn .btn-outline } 
-
-#### Labs
-Fridays, 10:00am – 11:50am
-
-[Join Zoom Lab]({{ site.aux_links.zoom_lab.link}}){: .btn .btn-outline } <br>
-Meeting ID: `892 9141 3832` Password: `269962` (same as lectures)
-
-#### Office Hours
-TBA
+{% include logistics.md %}
 
 ---
 
