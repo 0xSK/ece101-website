@@ -20,7 +20,7 @@ Mon, Jan 31
   : Video / [Slides](https://www.dropbox.com/s/v2g8gbhot59n21a/101-005-internet1.pdf?dl=0)
 
 Wed, Feb 2
-: **Internet (2/2)** <br/> HTTP, DNS, TCP, Layering
+: **Internet (2/2)** <br/> HTTP, DNS, TCP, and Layering
   : Video / [Slides](https://www.dropbox.com/s/mhxu6i60x1o3xe0/101-006-internet2.pdf?dl=0)
 
 Fri, Feb 4
