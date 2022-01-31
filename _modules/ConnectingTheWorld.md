@@ -13,11 +13,11 @@ Wed, Jan 26
 
 Fri, Jan 28
 : **Lab 1**: Introduction to Colab
-  : Video / Notebook
+  : [Video](https://courses.grainger.illinois.edu/ece101/sp2022/labs/ECE101-S22-LAB-01.mp4) / [Notebook](https://drive.google.com/drive/folders/12S7sFyF6H2rKKxffIWT2xkmaxjzjcQTg?usp=sharing)
 
 Mon, Jan 31
 : **Internet — DNS & Routing**
-  : Video / Slides
+  : Video / [Slides](https://www.dropbox.com/s/v2g8gbhot59n21a/101-005-internet1.pdf?dl=0)
 
 Wed, Feb 2
 : **Internet — Transport & HTTP**
