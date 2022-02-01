@@ -17,7 +17,7 @@ Fri, Jan 28
 
 Mon, Jan 31
 : **Internet (1/2)** <br/> Connectivity, Forwarding, and Routing
-  : Video / [Slides](https://www.dropbox.com/s/v2g8gbhot59n21a/101-005-internet1.pdf?dl=0)
+  : [Video](https://courses.grainger.illinois.edu/ece101/sp2022/lectures/ECE101-S22-LECTURE-05.mp4) / [Slides](https://www.dropbox.com/s/v2g8gbhot59n21a/101-005-internet1.pdf?dl=0)
 
 Wed, Feb 2
 : **Internet (2/2)** <br/> HTTP, DNS, TCP, and Layering
