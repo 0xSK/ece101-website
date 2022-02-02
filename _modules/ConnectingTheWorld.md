@@ -29,7 +29,7 @@ Fri, Feb 4
 
 Mon, Feb 7
 : **Client-Server**
-  : Video / Slides
+  : Video / [Slides](https://www.dropbox.com/scl/fi/o98afd1dvoyx4wq4fjsyg/101-007-client-server.pptx?dl=0&rlkey=3v9s0mqe3ruxh31cokp1l6yeq)
 
 Wed, Feb 9
 : **Social Networks**
