@@ -21,11 +21,11 @@ Mon, Jan 31
 
 Wed, Feb 2
 : **Internet (2/2)** <br/> HTTP, DNS, TCP, and Layering
-  : Video / [Slides](https://www.dropbox.com/s/mhxu6i60x1o3xe0/101-006-internet2.pdf?dl=0)
+  : [Video](https://courses.grainger.illinois.edu/ece101/sp2022/lectures/ECE101-S22-LECTURE-06.mp4) / [Slides](https://www.dropbox.com/s/mhxu6i60x1o3xe0/101-006-internet2.pdf?dl=0)
 
 Fri, Feb 4
-: **Lab 2**
-  : Video / [Notebook]({{ site.aux_links.lab_notebooks.link}})
+: **Internet (3/2)** <br/> **Lab 2**
+  : [Video](https://courses.grainger.illinois.edu/ece101/sp2022/labs/ECE101-S22-LAB-02.mp4) / [Notebook]({{ site.aux_links.lab_notebooks.link}})
 
 Mon, Feb 7
 : **Client-Server**
