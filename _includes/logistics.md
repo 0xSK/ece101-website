@@ -12,7 +12,7 @@ Fridays, 10:00am – 11:50am
 [Join Zoom Lab]({{ site.aux_links.zoom_lab.link}}){: .btn .btn-outline } <br>
 Meeting ID: `892 9141 3832` Password: `269962` (same as lectures)
 
-[Open Lab Notebooks](https://drive.google.com/drive/folders/12S7sFyF6H2rKKxffIWT2xkmaxjzjcQTg?usp=sharing){: .btn .btn-outline } <br>
+[Open Lab Notebooks]({{ site.aux_links.lab_notebooks.link}}){: .btn .btn-outline } <br>
 
 #### Office Hours
 ##### Prof. Lumetta

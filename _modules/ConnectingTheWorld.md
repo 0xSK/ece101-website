@@ -13,7 +13,7 @@ Wed, Jan 26
 
 Fri, Jan 28
 : **Lab 1** <br/>Introduction to Colab
-  : [Video](https://courses.grainger.illinois.edu/ece101/sp2022/labs/ECE101-S22-LAB-01.mp4) / [Notebook](https://drive.google.com/drive/folders/12S7sFyF6H2rKKxffIWT2xkmaxjzjcQTg?usp=sharing)
+  : [Video](https://courses.grainger.illinois.edu/ece101/sp2022/labs/ECE101-S22-LAB-01.mp4) / [Notebook]({{ site.aux_links.lab_notebooks.link}})
 
 Mon, Jan 31
 : **Internet (1/2)** <br/> Connectivity, Forwarding, and Routing
@@ -25,7 +25,7 @@ Wed, Feb 2
 
 Fri, Feb 4
 : **Lab 2**
-  : Video / Notebook
+  : Video / [Notebook]({{ site.aux_links.lab_notebooks.link}})
 
 Mon, Feb 7
 : **Client-Server**
