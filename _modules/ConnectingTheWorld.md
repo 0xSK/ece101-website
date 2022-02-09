@@ -33,7 +33,7 @@ Mon, Feb 7
 
 Wed, Feb 9
 : **Social Networks**
-  : Video / [Slides](https://www.dropbox.com/scl/fi/tygi4qb096m23k3nqgeqn/101-008-distribution-and-streaming.pptx?dl=0&rlkey=mg6ikw9yrrudt4dzta3qefw5i)
+  : Video / [Slides](https://www.dropbox.com/s/x74ybeltuqhhua3/101-008-distribution-and-streaming.pptx?dl=0)
 
 Fri, Feb 11
 : **Lab 3**
