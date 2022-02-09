@@ -29,11 +29,11 @@ Fri, Feb 4
 
 Mon, Feb 7
 : **Client-Server**
-  : Video / [Slides](https://www.dropbox.com/scl/fi/o98afd1dvoyx4wq4fjsyg/101-007-client-server.pptx?dl=0&rlkey=3v9s0mqe3ruxh31cokp1l6yeq)
+  : [Video](https://courses.grainger.illinois.edu/ece101/sp2022/lectures/ECE101-S22-LECTURE-07.mp4) / [Slides](https://www.dropbox.com/scl/fi/o98afd1dvoyx4wq4fjsyg/101-007-client-server.pptx?dl=0&rlkey=3v9s0mqe3ruxh31cokp1l6yeq)
 
 Wed, Feb 9
 : **Social Networks**
-  : Video / Slides
+  : Video / [Slides](https://www.dropbox.com/scl/fi/tygi4qb096m23k3nqgeqn/101-008-distribution-and-streaming.pptx?dl=0&rlkey=mg6ikw9yrrudt4dzta3qefw5i)
 
 Fri, Feb 11
 : **Lab 3**
