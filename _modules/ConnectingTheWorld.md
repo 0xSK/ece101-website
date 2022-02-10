@@ -32,15 +32,15 @@ Mon, Feb 7
   : [Video](https://courses.grainger.illinois.edu/ece101/sp2022/lectures/ECE101-S22-LECTURE-07.mp4) / [Slides](https://www.dropbox.com/scl/fi/o98afd1dvoyx4wq4fjsyg/101-007-client-server.pptx?dl=0&rlkey=3v9s0mqe3ruxh31cokp1l6yeq)
 
 Wed, Feb 9
-: **Social Networks**
-  : Video / [Slides](https://www.dropbox.com/s/x74ybeltuqhhua3/101-008-distribution-and-streaming.pptx?dl=0)
+: **Distribution and Streaming**
+  : [Video](https://courses.grainger.illinois.edu/ece101/sp2022/lectures/ECE101-S22-LECTURE-08.mp4) / [Slides](https://www.dropbox.com/s/x74ybeltuqhhua3/101-008-distribution-and-streaming.pptx?dl=0)
 
 Fri, Feb 11
 : **Lab 3**
   : Video / Notebook
 
 Mon, Feb 14
-: **Distributed Systems**
+: **Social Networks**
   : Video / Slides
 
 Wed, Feb 16
