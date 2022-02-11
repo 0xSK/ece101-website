@@ -37,7 +37,7 @@ Wed, Feb 9
 
 Fri, Feb 11
 : **Lab 3**
-  : Video / Notebook
+  : Video / [Notebook]({{ site.aux_links.lab_notebooks.link}})
 
 Mon, Feb 14
 : **Social Networks**
