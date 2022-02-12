@@ -37,7 +37,7 @@ Wed, Feb 9
 
 Fri, Feb 11
 : **Lab 3**
-  : Video / [Notebook]({{ site.aux_links.lab_notebooks.link}})
+  : [Video](https://courses.grainger.illinois.edu/ece101/sp2022/labs/ECE101-S22-LAB-03.mp4) / [Notebook]({{ site.aux_links.lab_notebooks.link}})
 
 Mon, Feb 14
 : **Social Networks**
