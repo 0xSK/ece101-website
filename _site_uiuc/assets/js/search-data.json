@@ -18,16 +18,16 @@
     "relUrl": "/#recent-announcements"
   },"3": {
     "doc": "ECE 101 — Exploring Digital Information Technologies for Non-Engineers",
-    "title": "Some quick reminders",
-    "content": "Jan 18 &middot; Shreyas Kishore I hope you’re as excited about this new semester as I am. Before we get started, here is a quick list of reminders: . | Our first lecture will be tomorrow, Jan 19th, from 11:00am to 11:50am Central Time on Zoom. You can join using this link, or using: Meeting ID: 892 9141 3832 Password: 269962 | Please make sure your Zoom app is updated (download link). People have had trouble this semester attending classes with older versions of Zoom. | We will use Slack for discussion and questions. Please use this invite link to add yourself to our Slack workspace. I suggest using your university email or university Google account to sign up for Slack. Please let me know if you have any trouble. | I suggest having a look at (and bookmarking) the course website. It has all information, announcements, and links you’d need about this course. We have also uploaded the slides for the first couple of lectures (if you’d want to have a look); you can find them in the course calendar on the website. | . I hope you have a great start to your semester. See you all soon! . ",
-    "url": "https://courses.grainger.illinois.edu/ece101/sp2022/#reminders",
-    "relUrl": "/#reminders"
+    "title": "Vox Video: How Does the Internet Work?",
+    "content": "Feb 11 &middot; Shreyas Kishore As Prof. Romit pointed out, Vox has an explainer on YouTube explaining how the internet works. I encourage you to watch it here: https://youtu.be/TNQsmPf24go. You would already know most of the ideas from that video, but it’s still entertaining to watch and it should help reinforce certain concepts. ",
+    "url": "https://courses.grainger.illinois.edu/ece101/sp2022/#vox-video",
+    "relUrl": "/#vox-video"
   },"4": {
     "doc": "ECE 101 — Exploring Digital Information Technologies for Non-Engineers",
-    "title": "Welcome to the new edition of ECE 101! 🎉",
-    "content": "Jan 16 &middot; ECE 101 Course Staff We are excited to start the new semester. Profs. Roy Choudhury and Lumetta put this course together with the hope of helping students (from all departments) understand and ponder about modern technologies that have changed and will continue to change people’s lives in the coming decade. Shreyas is a senior ECE student with extensive experience on our course staff, who volunteered to join us for his passion for motivating non-engineers about STEM ideas. As you may already know, we have made some major changes to the course content and structure, so please ignore any old descriptions that you might find online—this page and our introductory lecture will tell you about the plans for this and coming semesters. If you have friends who you think might also be interested in joining our class, please encourage them to do so this semester (or next). We’re also interested in hearing how you learned about our class, as we do want to attract more students. As you know, the first week of classes must be online, and while we’re eager to meet you face-to-face, COVID is rampant in Champaign. We feel that continued online meetings are likely for some time. Sincerely, The ECE 101 Course Staff . See All Announcements . ",
-    "url": "https://courses.grainger.illinois.edu/ece101/sp2022/#welcome",
-    "relUrl": "/#welcome"
+    "title": "Some quick reminders",
+    "content": "Jan 18 &middot; Shreyas Kishore I hope you’re as excited about this new semester as I am. Before we get started, here is a quick list of reminders: . | Our first lecture will be tomorrow, Jan 19th, from 11:00am to 11:50am Central Time on Zoom. You can join using this link, or using: Meeting ID: 892 9141 3832 Password: 269962 | Please make sure your Zoom app is updated (download link). People have had trouble this semester attending classes with older versions of Zoom. | We will use Slack for discussion and questions. Please use this invite link to add yourself to our Slack workspace. I suggest using your university email or university Google account to sign up for Slack. Please let me know if you have any trouble. | I suggest having a look at (and bookmarking) the course website. It has all information, announcements, and links you’d need about this course. We have also uploaded the slides for the first couple of lectures (if you’d want to have a look); you can find them in the course calendar on the website. | . I hope you have a great start to your semester. See you all soon! . See All Announcements . ",
+    "url": "https://courses.grainger.illinois.edu/ece101/sp2022/#reminders",
+    "relUrl": "/#reminders"
   },"5": {
     "doc": "ECE 101 — Exploring Digital Information Technologies for Non-Engineers",
     "title": "Calendar",
@@ -66,17 +66,23 @@
     "relUrl": "/#all-announcements"
   },"11": {
     "doc": "ECE 101 — Exploring Digital Information Technologies for Non-Engineers",
+    "title": "Vox Video: How Does the Internet Work?",
+    "content": "Feb 11 &middot; Shreyas Kishore As Prof. Romit pointed out, Vox has an explainer on YouTube explaining how the internet works. I encourage you to watch it here: https://youtu.be/TNQsmPf24go. You would already know most of the ideas from that video, but it’s still entertaining to watch and it should help reinforce certain concepts. ",
+    "url": "https://courses.grainger.illinois.edu/ece101/sp2022/#vox-video",
+    "relUrl": "/#vox-video"
+  },"12": {
+    "doc": "ECE 101 — Exploring Digital Information Technologies for Non-Engineers",
     "title": "Some quick reminders",
     "content": "Jan 18 &middot; Shreyas Kishore I hope you’re as excited about this new semester as I am. Before we get started, here is a quick list of reminders: . | Our first lecture will be tomorrow, Jan 19th, from 11:00am to 11:50am Central Time on Zoom. You can join using this link, or using: Meeting ID: 892 9141 3832 Password: 269962 | Please make sure your Zoom app is updated (download link). People have had trouble this semester attending classes with older versions of Zoom. | We will use Slack for discussion and questions. Please use this invite link to add yourself to our Slack workspace. I suggest using your university email or university Google account to sign up for Slack. Please let me know if you have any trouble. | I suggest having a look at (and bookmarking) the course website. It has all information, announcements, and links you’d need about this course. We have also uploaded the slides for the first couple of lectures (if you’d want to have a look); you can find them in the course calendar on the website. | . I hope you have a great start to your semester. See you all soon! . ",
     "url": "https://courses.grainger.illinois.edu/ece101/sp2022/#reminders",
     "relUrl": "/#reminders"
-  },"12": {
+  },"13": {
     "doc": "ECE 101 — Exploring Digital Information Technologies for Non-Engineers",
     "title": "Welcome to the new edition of ECE 101! 🎉",
     "content": "Jan 16 &middot; ECE 101 Course Staff We are excited to start the new semester. Profs. Roy Choudhury and Lumetta put this course together with the hope of helping students (from all departments) understand and ponder about modern technologies that have changed and will continue to change people’s lives in the coming decade. Shreyas is a senior ECE student with extensive experience on our course staff, who volunteered to join us for his passion for motivating non-engineers about STEM ideas. As you may already know, we have made some major changes to the course content and structure, so please ignore any old descriptions that you might find online—this page and our introductory lecture will tell you about the plans for this and coming semesters. If you have friends who you think might also be interested in joining our class, please encourage them to do so this semester (or next). We’re also interested in hearing how you learned about our class, as we do want to attract more students. As you know, the first week of classes must be online, and while we’re eager to meet you face-to-face, COVID is rampant in Champaign. We feel that continued online meetings are likely for some time. Sincerely, The ECE 101 Course Staff . ",
     "url": "https://courses.grainger.illinois.edu/ece101/sp2022/#welcome",
     "relUrl": "/#welcome"
-  },"13": {
+  },"14": {
     "doc": "ECE 101 — Exploring Digital Information Technologies for Non-Engineers",
     "title": "ECE 101 — Exploring Digital Information Technologies for Non-Engineers",
     "content": " ",
