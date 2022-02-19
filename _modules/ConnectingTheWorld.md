@@ -41,7 +41,7 @@ Fri, Feb 11
 
 Mon, Feb 14
 : **Social Networks**
-  : Video / Slides
+  : [Video](https://courses.grainger.illinois.edu/ece101/sp2022/lectures/ECE101-S22-LECTURE-09.mp4) / [Slides](https://www.dropbox.com/s/kefdh3t0av8kct1/101-009-social-networks.pptx?dl=0)
 
 Wed, Feb 16
 : **File Systems**
