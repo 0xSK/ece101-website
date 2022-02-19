@@ -45,8 +45,10 @@ Mon, Feb 14
 
 Wed, Feb 16
 : **File Systems**
-  : Video / Slides
+  : [Video](https://courses.grainger.illinois.edu/ece101/sp2022/lectures/ECE101-S22-LECTURE-10.mp4) / [Slides](https://www.dropbox.com/s/q1ndj8c6v1ibsov/101-010-file-systems.pptx?dl=0)
 
 Fri, Feb 18
 : **Lab 4**
-  : Video / Notebook
+  : [Video](https://courses.grainger.illinois.edu/ece101/sp2022/labs/ECE101-S22-LAB-04.mp4) / [Notebook]({{ site.aux_links.lab_notebooks.link}})
+: **Exam 1 Review**
+  : [Video](https://courses.grainger.illinois.edu/ece101/sp2022/exams/ECE101-S22-REVIEW-01.mp4) / [Resources](#exam-1-study-guide) 
