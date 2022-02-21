@@ -1,7 +1,7 @@
 The course has three midterm exams. There will <u>not</u> be any final exam. More information on midterm logistics, format, and grading will be released soon.
 
 #### Exam 1
-Exam 1 will be on Wednesday, Feb 23. <br/>
+Exam 1 will be on Wednesday, Feb 23 11:00am–11:50am at [241 CSL (Coordinated Science Laboratory)](https://goo.gl/maps/otAdnSvp6KkSSdmHA). <br/>
 This exam will test concepts covered in the [Past & Present module](#past-present-connecting-the-world). <br/>
 
 <h5 id="exam-1-study-guide">Study Guide</h5>
