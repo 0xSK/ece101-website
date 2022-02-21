@@ -5,11 +5,11 @@ sort_order: 3
 
 Mon, Feb 21
 : **Google & Web Search**
-  : Video / Slides
+  : Video / [Slides](https://www.dropbox.com/s/bufw5t269x5i3l6/101-011-search-engines.pdf?dl=0)
 
 Wed, Feb 23
 : **Exam 1**{: .label .label-red }
-  : [Info](#exam-1) / [Cats](https://www.youtube.com/results?search_query=cats)
+  : [Info](#exam-1) / [Study Guide](#exam-1-study-guide) / [Cats](https://www.youtube.com/results?search_query=cats)
 
 Fri, Feb 25
 : **No Lab**{: .label .label-green }
