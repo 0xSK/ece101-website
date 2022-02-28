@@ -4,8 +4,8 @@ sort_order: 3
 ---
 
 Mon, Feb 21
-: **Google & Web Search**
-  : Video / [Slides](https://www.dropbox.com/s/bufw5t269x5i3l6/101-011-search-engines.pdf?dl=0)
+: **Introduction to Machine Intelligence**
+  : [Video](https://courses.grainger.illinois.edu/ece101/sp2022/lectures/ECE101-S22-LECTURE-11.mp4) / [Slides](https://www.dropbox.com/s/1wy3ncoi0sxxir3/101-011-intro-to-machine-intelligence.pdf?dl=0)
 
 Wed, Feb 23
 : **Exam 1**{: .label .label-red }
@@ -16,11 +16,11 @@ Fri, Feb 25
   : 
 
 Mon, Feb 28
-: **Recommendation Engines**
-  : Video / Slides
+: **Search Engines and Google**
+  : Video / [Slides](https://www.dropbox.com/s/gvzngbna4ngv573/101-012-search-recommendation.pdf?dl=0)
 
 Wed, Mar 2
-: **Gaming** <br> Peer-to-peer communication, Latency
+: **Recommendation Systems and Gaming**
   : Video / Slides
 
 Fri, Mar 4
