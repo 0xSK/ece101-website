@@ -20,16 +20,16 @@ Mon, Feb 28
   : [Video](https://courses.grainger.illinois.edu/ece101/sp2022/lectures/ECE101-S22-LECTURE-12.mp4) / [Slides](https://www.dropbox.com/s/1wy3ncoi0sxxir3/101-012-search-engines.pdf?dl=0)
 
 Wed, Mar 2
-: **Recommendation Systems and Gaming**
-  : Video / [Slides](https://www.dropbox.com/s/gvzngbna4ngv573/101-013-recommendation.pdf?dl=0)
+: **Recommendation Systems**
+  : [Video](https://courses.grainger.illinois.edu/ece101/sp2022/lectures/ECE101-S22-LECTURE-13.mp4) / [Slides](https://www.dropbox.com/s/gvzngbna4ngv573/101-013-recommendation.pdf?dl=0)
 
 Fri, Mar 4
 : **Lab 5**
-  : Video / Notebook
+  : [Video](https://courses.grainger.illinois.edu/ece101/sp2022/labs/ECE101-S22-LAB-05.mp4) / [Notebook]({{ site.aux_links.lab_notebooks.link}})
 
 Mon, Mar 7
 : **Machine Learning**
-  : Video / Slides
+  : [Video](https://courses.grainger.illinois.edu/ece101/sp2022/lectures/ECE101-S22-LECTURE-14.mp4) / [Slides](https://www.dropbox.com/s/7iodhw3ajig157e/101-014-machine-learning.pdf?dl=0)
 
 Wed, Mar 9
 : **Artificial Intelligence**

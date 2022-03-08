@@ -7,7 +7,7 @@
   },"1": {
     "doc": "ECE 101 — Exploring Digital Information Technologies for Non-Engineers",
     "title": "Logistics",
-    "content": "Lectures . Mondays &amp; Wednesdays, 11:00am – 11:50am . Join Zoom Lecture Meeting ID: 892 9141 3832 Password: 269962 . See Lecture Schedule . Labs . Fridays, 10:00am – 11:50am . Join Zoom Lab Meeting ID: 892 9141 3832 Password: 269962 (same as lectures) . Open Lab Notebooks . Office Hours . Prof. Lumetta . Thursdays 3:00pm – 5:00pm on Zoom . Prof. Roy Choudhury . TBA . Shreyas Kishore . TBA . ",
+    "content": "Lectures . Mondays &amp; Wednesdays, 11:00am – 11:50am at 3081 ECEB . See Lecture Schedule . Labs . Fridays, 10:00am – 11:50am at 2025 CIF . Open Lab Notebooks . Office Hours . Prof. Lumetta . Thursdays 3:00pm – 5:00pm on Zoom . Prof. Roy Choudhury . TBA . Shreyas Kishore . TBA . ",
     "url": "https://courses.grainger.illinois.edu/ece101/sp2022/#logistics",
     "relUrl": "/#logistics"
   },"2": {
@@ -18,20 +18,20 @@
     "relUrl": "/#recent-announcements"
   },"3": {
     "doc": "ECE 101 — Exploring Digital Information Technologies for Non-Engineers",
-    "title": "Exam 1",
-    "content": "Feb 19 &middot; Shreyas Kishore Exam 1 will be on Wednesday, Feb 23 11:00am at 241 CSL (Coordinated Science Laboratory). The exam will be 1 hour long. You are allowed 1 letter-size (8.5” × 11”) cheat sheet (you may use both sides). The exam is closed book/notes, and calculators are not allowed. This exam will test concepts covered in the Past &amp; Present module. You can find the relevant study guides and review video here. ",
-    "url": "https://courses.grainger.illinois.edu/ece101/sp2022/#exam-1-announcement",
-    "relUrl": "/#exam-1-announcement"
+    "title": "In-Person Meetings Starting Wednesday 3/2",
+    "content": "Mar 1 &middot; Shreyas Kishore We will begin meeting in-person for lectures and labs starting this Wednesday, March 2nd. Lectures will be at 3081 ECEB, and labs will be at 2025 CIF. ",
+    "url": "https://courses.grainger.illinois.edu/ece101/sp2022/#in-person-lectures",
+    "relUrl": "/#in-person-lectures"
   },"4": {
     "doc": "ECE 101 — Exploring Digital Information Technologies for Non-Engineers",
-    "title": "Vox Video: How Does the Internet Work?",
-    "content": "Feb 11 &middot; Shreyas Kishore As Prof. Romit pointed out, Vox has an explainer on YouTube explaining how the internet works. I encourage you to watch it here: https://youtu.be/TNQsmPf24go. You would already know most of the ideas from that video, but it’s still entertaining to watch and it should help reinforce certain concepts. See All Announcements . ",
-    "url": "https://courses.grainger.illinois.edu/ece101/sp2022/#vox-video",
-    "relUrl": "/#vox-video"
+    "title": "Exam 1",
+    "content": "Feb 19 &middot; Shreyas Kishore Exam 1 will be on Wednesday, Feb 23 11:00am at 241 CSL (Coordinated Science Laboratory). The exam will be 1 hour long. You are allowed 1 letter-size (8.5” × 11”) cheat sheet (you may use both sides). The exam is closed book/notes, and calculators are not allowed. This exam will test concepts covered in the Past &amp; Present module. You can find the relevant study guides and review video here. See All Announcements . ",
+    "url": "https://courses.grainger.illinois.edu/ece101/sp2022/#exam-1-announcement",
+    "relUrl": "/#exam-1-announcement"
   },"5": {
     "doc": "ECE 101 — Exploring Digital Information Technologies for Non-Engineers",
     "title": "Calendar",
-    "content": "Introduction . Mon, Jan 17 Martin Luther King Jr. Day 🇺🇸 Wed, Jan 19 Course Introduction &amp; Landscape Logistics, topics, grading, prerequisites, etc. 10 thousand foot view (Internet) to 100 feet view (programming) Video / Slides Fri, Jan 21 History, Map of Keywords Video / Slides Past &amp; Present — Connecting the World . Mon, Jan 24 Wi-Fi Video / Slides Wed, Jan 26 Cellular Video / Slides Fri, Jan 28 Lab 1 Introduction to Colab Video / Notebook Mon, Jan 31 Internet (1/2) Connectivity, Forwarding, and Routing Video / Slides Wed, Feb 2 Internet (2/2) HTTP, DNS, TCP, and Layering Video / Slides Fri, Feb 4 Internet (3/2) Lab 2 Video / Notebook Mon, Feb 7 Client-Server Video / Slides Wed, Feb 9 Distribution and Streaming Video / Slides Fri, Feb 11 Lab 3 Video / Notebook Mon, Feb 14 Social Networks Video / Slides Wed, Feb 16 File Systems Video / Slides Fri, Feb 18 Lab 4 Video / Notebook Exam 1 Review Video / Resources Intelligence &amp; Implications . Mon, Feb 21 Introduction to Machine Intelligence Video / Slides Wed, Feb 23 Exam 1 Info / Study Guide / Cats Fri, Feb 25 No Lab Mon, Feb 28 Search Engines and Google Video / Slides Wed, Mar 2 Recommendation Systems and Gaming Video / Slides Fri, Mar 4 Lab 5 Video / Notebook Mon, Mar 7 Machine Learning Video / Slides Wed, Mar 9 Artificial Intelligence Video / Slides Fri, Mar 11 Lab 6 Video / Notebook Sat, Mar 12 Spring Break Begins 🥳 Sun, Mar 20 Spring Break Ends 😔 Mon, Mar 21 Ethics &amp; Privacy Video / Slides Wed, Mar 23 Security Video / Slides Fri, Mar 25 Lab 7 Video / Notebook Mon, Mar 28 Fairness Video / Slides Wed, Mar 30 Exam 2 Info / Enchanted Mango Fri, Apr 1 No Lab Future . Mon, Apr 4 Sense-Compute-Communicate-Actuate Video / Slides Wed, Apr 6 Voice Assistants &amp; Wearables Video / Slides Fri, Apr 8 Lab 8 Video / Notebook Mon, Apr 11 Speech &amp; Natural Language Processing Video / Slides Wed, Apr 13 Computer Vision Video / Slides Fri, Apr 15 Lab 9 Video / Notebook Mon, Apr 18 Augmented Reality / Virtual Reality Video / Slides Wed, Apr 20 Self Driving Video / Slides Fri, Apr 22 Lab 10 Video / Notebook Mon, Apr 25 Review Video / Slides Wed, Apr 27 Exam 3 Info / TBA Fri, Apr 29 No Lab Fun Week . Mon, May 2 TBA Wed, May 4 TBA Thu, May 5 Reading Day 📚 . ",
+    "content": "Introduction . Mon, Jan 17 Martin Luther King Jr. Day 🇺🇸 Wed, Jan 19 Course Introduction &amp; Landscape Logistics, topics, grading, prerequisites, etc. 10 thousand foot view (Internet) to 100 feet view (programming) Video / Slides Fri, Jan 21 History, Map of Keywords Video / Slides Past &amp; Present — Connecting the World . Mon, Jan 24 Wi-Fi Video / Slides Wed, Jan 26 Cellular Video / Slides Fri, Jan 28 Lab 1 Introduction to Colab Video / Notebook Mon, Jan 31 Internet (1/2) Connectivity, Forwarding, and Routing Video / Slides Wed, Feb 2 Internet (2/2) HTTP, DNS, TCP, and Layering Video / Slides Fri, Feb 4 Internet (3/2) Lab 2 Video / Notebook Mon, Feb 7 Client-Server Video / Slides Wed, Feb 9 Distribution and Streaming Video / Slides Fri, Feb 11 Lab 3 Video / Notebook Mon, Feb 14 Social Networks Video / Slides Wed, Feb 16 File Systems Video / Slides Fri, Feb 18 Lab 4 Video / Notebook Exam 1 Review Video / Resources Intelligence &amp; Implications . Mon, Feb 21 Introduction to Machine Intelligence Video / Slides Wed, Feb 23 Exam 1 Info / Study Guide / Cats Fri, Feb 25 No Lab Mon, Feb 28 Search Engines and Google Video / Slides Wed, Mar 2 Recommendation Systems Video / Slides Fri, Mar 4 Lab 5 Video / Notebook Mon, Mar 7 Machine Learning Video / Slides Wed, Mar 9 Artificial Intelligence Video / Slides Fri, Mar 11 Lab 6 Video / Notebook Sat, Mar 12 Spring Break Begins 🥳 Sun, Mar 20 Spring Break Ends 😔 Mon, Mar 21 Ethics &amp; Privacy Video / Slides Wed, Mar 23 Security Video / Slides Fri, Mar 25 Lab 7 Video / Notebook Mon, Mar 28 Fairness Video / Slides Wed, Mar 30 Exam 2 Info / Enchanted Mango Fri, Apr 1 No Lab Future . Mon, Apr 4 Sense-Compute-Communicate-Actuate Video / Slides Wed, Apr 6 Voice Assistants &amp; Wearables Video / Slides Fri, Apr 8 Lab 8 Video / Notebook Mon, Apr 11 Speech &amp; Natural Language Processing Video / Slides Wed, Apr 13 Computer Vision Video / Slides Fri, Apr 15 Lab 9 Video / Notebook Mon, Apr 18 Augmented Reality / Virtual Reality Video / Slides Wed, Apr 20 Self Driving Video / Slides Fri, Apr 22 Lab 10 Video / Notebook Mon, Apr 25 Review Video / Slides Wed, Apr 27 Exam 3 Info / TBA Fri, Apr 29 No Lab Fun Week . Mon, May 2 TBA Wed, May 4 TBA Thu, May 5 Reading Day 📚 . ",
     "url": "https://courses.grainger.illinois.edu/ece101/sp2022/#calendar",
     "relUrl": "/#calendar"
   },"6": {
@@ -66,29 +66,35 @@
     "relUrl": "/#all-announcements"
   },"11": {
     "doc": "ECE 101 — Exploring Digital Information Technologies for Non-Engineers",
+    "title": "In-Person Meetings Starting Wednesday 3/2",
+    "content": "Mar 1 &middot; Shreyas Kishore We will begin meeting in-person for lectures and labs starting this Wednesday, March 2nd. Lectures will be at 3081 ECEB, and labs will be at 2025 CIF. ",
+    "url": "https://courses.grainger.illinois.edu/ece101/sp2022/#in-person-lectures",
+    "relUrl": "/#in-person-lectures"
+  },"12": {
+    "doc": "ECE 101 — Exploring Digital Information Technologies for Non-Engineers",
     "title": "Exam 1",
     "content": "Feb 19 &middot; Shreyas Kishore Exam 1 will be on Wednesday, Feb 23 11:00am at 241 CSL (Coordinated Science Laboratory). The exam will be 1 hour long. You are allowed 1 letter-size (8.5” × 11”) cheat sheet (you may use both sides). The exam is closed book/notes, and calculators are not allowed. This exam will test concepts covered in the Past &amp; Present module. You can find the relevant study guides and review video here. ",
     "url": "https://courses.grainger.illinois.edu/ece101/sp2022/#exam-1-announcement",
     "relUrl": "/#exam-1-announcement"
-  },"12": {
+  },"13": {
     "doc": "ECE 101 — Exploring Digital Information Technologies for Non-Engineers",
     "title": "Vox Video: How Does the Internet Work?",
     "content": "Feb 11 &middot; Shreyas Kishore As Prof. Romit pointed out, Vox has an explainer on YouTube explaining how the internet works. I encourage you to watch it here: https://youtu.be/TNQsmPf24go. You would already know most of the ideas from that video, but it’s still entertaining to watch and it should help reinforce certain concepts. ",
     "url": "https://courses.grainger.illinois.edu/ece101/sp2022/#vox-video",
     "relUrl": "/#vox-video"
-  },"13": {
+  },"14": {
     "doc": "ECE 101 — Exploring Digital Information Technologies for Non-Engineers",
     "title": "Some quick reminders",
     "content": "Jan 18 &middot; Shreyas Kishore I hope you’re as excited about this new semester as I am. Before we get started, here is a quick list of reminders: . | Our first lecture will be tomorrow, Jan 19th, from 11:00am to 11:50am Central Time on Zoom. You can join using this link, or using: Meeting ID: 892 9141 3832 Password: 269962 | Please make sure your Zoom app is updated (download link). People have had trouble this semester attending classes with older versions of Zoom. | We will use Slack for discussion and questions. Please use this invite link to add yourself to our Slack workspace. I suggest using your university email or university Google account to sign up for Slack. Please let me know if you have any trouble. | I suggest having a look at (and bookmarking) the course website. It has all information, announcements, and links you’d need about this course. We have also uploaded the slides for the first couple of lectures (if you’d want to have a look); you can find them in the course calendar on the website. | . I hope you have a great start to your semester. See you all soon! . ",
     "url": "https://courses.grainger.illinois.edu/ece101/sp2022/#reminders",
     "relUrl": "/#reminders"
-  },"14": {
+  },"15": {
     "doc": "ECE 101 — Exploring Digital Information Technologies for Non-Engineers",
     "title": "Welcome to the new edition of ECE 101! 🎉",
     "content": "Jan 16 &middot; ECE 101 Course Staff We are excited to start the new semester. Profs. Roy Choudhury and Lumetta put this course together with the hope of helping students (from all departments) understand and ponder about modern technologies that have changed and will continue to change people’s lives in the coming decade. Shreyas is a senior ECE student with extensive experience on our course staff, who volunteered to join us for his passion for motivating non-engineers about STEM ideas. As you may already know, we have made some major changes to the course content and structure, so please ignore any old descriptions that you might find online—this page and our introductory lecture will tell you about the plans for this and coming semesters. If you have friends who you think might also be interested in joining our class, please encourage them to do so this semester (or next). We’re also interested in hearing how you learned about our class, as we do want to attract more students. As you know, the first week of classes must be online, and while we’re eager to meet you face-to-face, COVID is rampant in Champaign. We feel that continued online meetings are likely for some time. Sincerely, The ECE 101 Course Staff . ",
     "url": "https://courses.grainger.illinois.edu/ece101/sp2022/#welcome",
     "relUrl": "/#welcome"
-  },"15": {
+  },"16": {
     "doc": "ECE 101 — Exploring Digital Information Technologies for Non-Engineers",
     "title": "ECE 101 — Exploring Digital Information Technologies for Non-Engineers",
     "content": " ",
