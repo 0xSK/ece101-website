@@ -37,7 +37,7 @@ Wed, Mar 9
 
 Fri, Mar 11
 : **Lab 6**
-  : Video / Notebook
+  : Video / [Notebook]({{ site.aux_links.lab_notebooks.link}})
 
 Sat, Mar 12
 : **Spring Break Begins 🥳**{: .label .label-purple }
