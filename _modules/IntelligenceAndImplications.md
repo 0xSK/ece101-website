@@ -28,12 +28,12 @@ Fri, Mar 4
   : [Video](https://courses.grainger.illinois.edu/ece101/sp2022/labs/ECE101-S22-LAB-05.mp4) / [Notebook]({{ site.aux_links.lab_notebooks.link}})
 
 Mon, Mar 7
-: **Machine Learning**
+: **Machine Learning (1/2)**
   : [Video](https://courses.grainger.illinois.edu/ece101/sp2022/lectures/ECE101-S22-LECTURE-14.mp4) / [Slides](https://www.dropbox.com/s/7iodhw3ajig157e/101-014-machine-learning.pdf?dl=0)
 
 Wed, Mar 9
-: **Artificial Intelligence**
-  : Video / Slides
+: **Machine Learning (2/2)**
+  : [Video](https://courses.grainger.illinois.edu/ece101/sp2022/lectures/ECE101-S22-LECTURE-15.mp4) / [Slides](https://www.dropbox.com/s/tc81xbi8ua8jw4z/101-015-deep-learning.pdf?dl=0)
 
 Fri, Mar 11
 : **Lab 6**
