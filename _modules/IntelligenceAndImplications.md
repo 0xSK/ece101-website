@@ -37,7 +37,7 @@ Wed, Mar 9
 
 Fri, Mar 11
 : **Lab 6**
-  : Video / [Notebook]({{ site.aux_links.lab_notebooks.link}})
+  : [Video](https://courses.grainger.illinois.edu/ece101/sp2022/labs/ECE101-S22-LAB-06.mp4) / [Notebook]({{ site.aux_links.lab_notebooks.link}})
 
 Sat, Mar 12
 : **Spring Break Begins 🥳**{: .label .label-purple }
