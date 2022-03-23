@@ -47,7 +47,7 @@ Sun, Mar 20
 
 Mon, Mar 21
 : **Ethics & Privacy**
-  : Video / Slides
+  : [Video](https://courses.grainger.illinois.edu/ece101/sp2022/lectures/ECE101-S22-LECTURE-16.mp4) / [Slides](https://www.dropbox.com/s/byecizh0vzr3sm5/101-016-ethics-and-privacy.pptx?dl=0)
 
 Wed, Mar 23
 : **Security**
