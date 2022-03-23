@@ -51,7 +51,7 @@ Mon, Mar 21
 
 Wed, Mar 23
 : **Security**
-  : Video / Slides
+  : Video / [Slides](https://www.dropbox.com/s/9uucclf40llwknk/101-017-security.pptx?dl=0)
 
 Fri, Mar 25
 : **Lab 7**
