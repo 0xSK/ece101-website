@@ -55,7 +55,7 @@ Wed, Mar 23
 
 Fri, Mar 25
 : **Lab 7**
-  : Video / Notebook
+  : [Video](https://courses.grainger.illinois.edu/ece101/sp2022/labs/ECE101-S22-LAB-07.mp4) / [Notebook]({{ site.aux_links.lab_notebooks.link}})
 
 Mon, Mar 28
 : **Fairness**
