@@ -50,20 +50,20 @@ Mon, Mar 21
   : [Video](https://courses.grainger.illinois.edu/ece101/sp2022/lectures/ECE101-S22-LECTURE-16.mp4) / [Slides](https://www.dropbox.com/s/byecizh0vzr3sm5/101-016-ethics-and-privacy.pptx?dl=0)
 
 Wed, Mar 23
-: **Security**
-  : [Video](https://courses.grainger.illinois.edu/ece101/sp2022/lectures/ECE101-S22-LECTURE-17.mp4) / [Slides](https://www.dropbox.com/s/9uucclf40llwknk/101-017-security.pptx?dl=0)
+: **Authentication**
+  : [Video](https://courses.grainger.illinois.edu/ece101/sp2022/lectures/ECE101-S22-LECTURE-17.mp4) / [Slides](https://www.dropbox.com/s/fqz4xdwwn1n8314/101-017-authentication.pptx?dl=0)
 
 Fri, Mar 25
 : **Lab 7**
   : [Video](https://courses.grainger.illinois.edu/ece101/sp2022/labs/ECE101-S22-LAB-07.mp4) / [Notebook]({{ site.aux_links.lab_notebooks.link}})
 
 Mon, Mar 28
-: **Fairness**
-  : Video / Slides
+: **Physical Security & Fairness**
+  : Video / [Slides](https://www.dropbox.com/s/o2of0n72pvznq39/101-018-physical-security-and-fairness.pptx?dl=0)
 
 Wed, Mar 30
 : **Exam 2**{: .label .label-red }
-  : [Info](#exam-2) / [Enchanted Mango](assets/images/mango.jpg)
+  : [Info](#exam-2) / [Study Guide](#exam-2-study-guide) / [Mango](assets/images/mango.jpg)
 
 Fri, Apr 1
 : **No Lab**{: .label .label-green }
