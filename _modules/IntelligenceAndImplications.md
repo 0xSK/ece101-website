@@ -59,7 +59,7 @@ Fri, Mar 25
 
 Mon, Mar 28
 : **Physical Security & Fairness**
-  : Video / [Slides](https://www.dropbox.com/s/o2of0n72pvznq39/101-018-physical-security-and-fairness.pptx?dl=0)
+  : [Video](https://courses.grainger.illinois.edu/ece101/sp2022/lectures/ECE101-S22-LECTURE-18.mp4) / [Slides](https://www.dropbox.com/s/o2of0n72pvznq39/101-018-physical-security-and-fairness.pptx?dl=0)
 
 Wed, Mar 30
 : **Exam 2**{: .label .label-red }

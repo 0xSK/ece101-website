@@ -11,12 +11,11 @@ Here are some resources to help you prepare for Exam 1:
 3. [Exam 1 Review Session Video](https://courses.grainger.illinois.edu/ece101/sp2022/exams/ECE101-S22-REVIEW-01.mp4)
 
 #### Exam 2
-Exam 2 will be on Wednesday, Mar 30 at 11:00am. The exam will be 1 hour long. You are allowed 1 letter-size (8.5” × 11”) cheat sheet (you may use both sides). The exam is closed book/notes, and calculators are not allowed. <br/>
+Exam 2 will be on Wednesday, Mar 30 at 11:00am at 3081 ECEB (usual lecture location). The exam will be approximately 1 hour long. You are allowed 1 letter-size (8.5” × 11”) cheat sheet (you may use both sides). The exam is closed book/notes, and calculators are not allowed. <br/>
 This exam will test concepts covered in the [Intelligence & Implications module](#intelligence-implications). 
 
 <h5 id="exam-2-study-guide">Study Guide</h5>
-Here are some resources to help you prepare for Exam 2:
-1. [Professor Lumetta's Study Guide](https://courses.grainger.illinois.edu/ece101/sp2022/exams/study-guides/exam-2-study-guide-lumetta.pdf)
+Please have a look at the [Exam 2 Study Guide](https://courses.grainger.illinois.edu/ece101/sp2022/exams/study-guides/exam-2-study-guide-combined.pdf) to prepare for the exam.
 
 #### Exam 3
 Exam 3 will be tentatively on Wednesday, Apr 27. <br/>

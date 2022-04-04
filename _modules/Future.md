@@ -5,7 +5,7 @@ sort_order: 4
 
 Mon, Apr 4
 : **Sense-Compute-Communicate-Actuate**
-  : Video / Slides
+  : [Video](https://courses.grainger.illinois.edu/ece101/sp2022/lectures/ECE101-S22-LECTURE-19.mp4) / [Slides](https://www.dropbox.com/s/gz36m5r31tnbw9s/101-019-sensing1.pdf?dl=0)
 
 Wed, Apr 6
 : **Voice Assistants & Wearables**
