@@ -13,7 +13,7 @@ Wed, Apr 6
 
 Fri, Apr 8
 : **Lab 8**
-  : Video / Notebook
+  : Video / [Notebook]({{ site.aux_links.lab_notebooks.link}})
 
 Mon, Apr 11
 : **Speech & Natural Language Processing**
