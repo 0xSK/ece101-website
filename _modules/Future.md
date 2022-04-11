@@ -17,7 +17,7 @@ Fri, Apr 8
 
 Mon, Apr 11
 : **Speech & Natural Language Processing**
-  : Video / Slides
+  : Video / [Slides](https://www.dropbox.com/s/eyatfqpp5jw7fhj/101-021-speech-and-NLP.pptx?dl=0)
 
 Wed, Apr 13
 : **Computer Vision**
