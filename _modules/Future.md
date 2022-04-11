@@ -13,7 +13,7 @@ Wed, Apr 6
 
 Fri, Apr 8
 : **Lab 8**
-  : Video / [Notebook]({{ site.aux_links.lab_notebooks.link}})
+  : [Video](https://courses.grainger.illinois.edu/ece101/sp2022/labs/ECE101-S22-LAB-08.mp4) / [Notebook]({{ site.aux_links.lab_notebooks.link}})
 
 Mon, Apr 11
 : **Speech & Natural Language Processing**
