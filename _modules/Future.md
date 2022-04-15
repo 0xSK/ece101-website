@@ -17,11 +17,11 @@ Fri, Apr 8
 
 Mon, Apr 11
 : **Speech & Natural Language Processing**
-  : Video / [Slides](https://www.dropbox.com/s/eyatfqpp5jw7fhj/101-021-speech-and-NLP.pptx?dl=0)
+  : [Video](https://courses.grainger.illinois.edu/ece101/sp2022/lectures/ECE101-S22-LECTURE-21.mp4) / [Slides](https://www.dropbox.com/s/eyatfqpp5jw7fhj/101-021-speech-and-NLP.pptx?dl=0)
 
 Wed, Apr 13
 : **Computer Vision**
-  : Video / Slides
+  : [Video](https://courses.grainger.illinois.edu/ece101/sp2022/lectures/ECE101-S22-LECTURE-22.mp4) / [Slides](https://www.dropbox.com/s/6ryw2bbao3jpusr/101-022-robot-vision.pptx?dl=0)
 
 Fri, Apr 15
 : **Lab 9**
